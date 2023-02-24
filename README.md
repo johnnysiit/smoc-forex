@@ -1,2 +1,2 @@
-# smoc-forex
-SMOC Forex Tracking and Auto Trading System
+# SMOC Forex Tracking and Auto Trading System
+
