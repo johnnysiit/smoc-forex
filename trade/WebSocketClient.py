@@ -114,9 +114,9 @@ class IGUSPreTradeWebSocketClientProtocol(WebSocketClientProtocol):
 
 def main(pair,currency,side,qty):
     factory = WebSocketClientFactory('wss://demo-iguspretrade.ig.com/trade')
-    factory.params = {'userName': 'sitzoenhei', 
-                    'password': 'Ydb3rDQhsTCe6EL',
-                     'accountID': 'Z53444',
+    factory.params = {'userName': '', 
+                    'password': '',
+                     'accountID': '',
                      'pair': pair,
                      'currency': currency,
                      'side': side,
